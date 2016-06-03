@@ -123,6 +123,13 @@ function GlobalUI.start()
     Layout.set_contain(ctx, lrsplit, Layout.ROW)
     Layout.insert(ctx, maincolumn, lrsplit)
 
+    -- We can also use the colon calling syntax, if we want. I'll freely mix
+    -- using either, to show that it works.
+    --
+    -- It doesn't matter which you use, though if you want to save a bit of
+    -- time spent on name lookup, you can create local bindings of the Layout
+    -- functions. I'm not going to do that here, but you can see examples of
+    -- doing that in Stingray library and example code.
     local leftarea = ctx:item()
     ctx:set_contain(leftarea, Layout.COLUMN, Layout.START)
     ctx:set_behave(leftarea, Layout.VFILL)
