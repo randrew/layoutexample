@@ -13,12 +13,21 @@ Usage
 -----
 
 Open the project in Stingray, and then edit the `script/lua/project.lua` file.
-You will need to manually enter the absolute path to the Stingray project in
-order for it to be able to find the layout.dll Lua module. There doesn't
-currently appear to be a way to handle this automatically in Stingray.
+You will need to manually enter the absolute path to the Stingray project as a
+string literal in order for it to be able to find the layout.dll Lua module.
+Find this line near the top of the file:
+
+```
+local projectdir = 'C:\\Users\\myname\\Documents\\Stingray\\layoutexample\\'
+```
+
+And edit it to be the path to the project on your local disk.
+
+There doesn't currently appear to be a way to handle this automatically in
+Stingray.
 
 Once you've done that, you can hit play to see the interface laid out and
-animated. To see how it was done, look at the file
+animated. To see how it was made, look at the file
 `ui/layout_test.s2d/ui_layout_test.lua`.
 
 Notes
