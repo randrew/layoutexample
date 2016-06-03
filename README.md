@@ -5,6 +5,10 @@ An example Stringray project which makes use of the
 [Layout](https://github.com/randrew/layout) library for calculating the
 rectangles of 2D UI elements.
 
+![](https://raw.githubusercontent.com/wiki/randrew/layoutexample/ui_screenshot_1.png)
+
+![](https://raw.githubusercontent.com/wiki/randrew/layoutexample/ui_anim_small.gif)
+
 Usage
 -----
 
