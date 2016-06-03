@@ -1,0 +1,78 @@
+{
+    "@objects": [
+		{
+			"Id": "9452146288663152989",
+			"DynamicProperties": {},
+			"Owner": null,
+			"Author": "",
+			"Company": "",
+			"StageWidth": 1280,
+			"StageHeight": 720,
+			"FramesPerSec": 30,
+			"AutoLoadScene": "LayoutScene.s2dscene",
+			"Script": "ui_layout_test.lua",
+			"GridOptionsData": {
+				"CellWidth": 16,
+				"CellHeight": 16,
+				"IsOnTop": true,
+				"IsVisible": false,
+				"GridColor": "#3d3e40"
+			},
+			"GuideOptionsData": {
+				"IsLocked": false,
+				"IsVisible": true,
+				"GuideColor": "#FF4040",
+				"HorizontalGuides": [],
+				"VerticalGuides": []
+			},
+			"Preview": "",
+			"SnappingOptionsData": {
+				"bSnapToGridEnabled": true,
+				"bSnapToObjectsEnabled": false,
+				"bSnapAlignEnabled": false,
+				"bSnapToPixelsEnabled": false,
+				"bSnapToGuidesEnabled": true,
+				"StageBorderSize": 18.000000,
+				"HorizontalSpacing": 0.000000,
+				"VerticalSpacing": 0.000000,
+				"SnapThreshold": 8.000000,
+				"AnchorThreshold": 15.000000
+			},
+			"@meta": {
+				"@id": 3979460783,
+				"@typeid": 153080644
+			}
+		}
+	],
+	"@meta": {
+		"@archive": "Serialization::Archive",
+		"@version": 1,
+		"@meta": {
+			"Scaleform::VGx::Data::Object": {
+				"@typename": "Scaleform::VGx::Data::Object",
+				"@typeid": 11646516,
+				"@version": 4
+			},
+			"Scaleform::VGx::Data::Project": {
+				"@typename": "Scaleform::VGx::Data::Project",
+				"@typeid": 153080644,
+				"@version": 7
+			},
+			"Scaleform::VGx::Data::GridOptions": {
+				"@typename": "Scaleform::VGx::Data::GridOptions",
+				"@typeid": 243991091,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::GuideOptions": {
+				"@typename": "Scaleform::VGx::Data::GuideOptions",
+				"@typeid": 158974835,
+				"@version": 1
+			},
+			"Scaleform::VGx::Data::SnappingOptions": {
+				"@typename": "Scaleform::VGx::Data::SnappingOptions",
+				"@typeid": 97839827,
+				"@version": 2
+			}
+		}
+	}
+}

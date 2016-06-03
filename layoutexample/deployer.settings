@@ -1,0 +1,139 @@
+
+ActiveConfigName = "dev"
+AndroidData = {
+	ApkUseCustomKey = false
+	IconLocation = ""
+	Identifier = ""
+	KeystoreAlias = ""
+	KeystoreAliasPassword = ""
+	KeystoreLocation = ""
+	KeystorePassword = ""
+	Version = ""
+}
+CompanyName = ""
+IOSData = {
+	Build = ""
+	BundleId = ""
+	Icons = [
+		{
+			Format = "Png"
+			Height = 29
+			Path = ""
+			Width = 29
+		}
+		{
+			Format = "Png"
+			Height = 40
+			Path = ""
+			Width = 40
+		}
+		{
+			Format = "Png"
+			Height = 58
+			Path = ""
+			Width = 58
+		}
+		{
+			Format = "Png"
+			Height = 76
+			Path = ""
+			Width = 76
+		}
+		{
+			Format = "Png"
+			Height = 80
+			Path = ""
+			Width = 80
+		}
+		{
+			Format = "Png"
+			Height = 87
+			Path = ""
+			Width = 87
+		}
+		{
+			Format = "Png"
+			Height = 120
+			Path = ""
+			Width = 120
+		}
+		{
+			Format = "Png"
+			Height = 152
+			Path = ""
+			Width = 152
+		}
+		{
+			Format = "Png"
+			Height = 180
+			Path = ""
+			Width = 180
+		}
+		{
+			Format = "Png"
+			Height = 512
+			Path = ""
+			Width = 512
+		}
+	]
+	IpAddress = ""
+	LaunchImages = [
+		{
+			Format = "Png"
+			Height = 960
+			Path = ""
+			Width = 640
+		}
+		{
+			Format = "Png"
+			Height = 1136
+			Path = ""
+			Width = 640
+		}
+		{
+			Format = "Png"
+			Height = 1536
+			Path = ""
+			Width = 2048
+		}
+		{
+			Format = "Png"
+			Height = 768
+			Path = ""
+			Width = 1024
+		}
+		{
+			Format = "Png"
+			Height = 2048
+			Path = ""
+			Width = 1536
+		}
+		{
+			Format = "Png"
+			Height = 1024
+			Path = ""
+			Width = 768
+		}
+		{
+			Format = "Png"
+			Height = 1334
+			Path = ""
+			Width = 750
+		}
+		{
+			Format = "Png"
+			Height = 1242
+			Path = ""
+			Width = 2208
+		}
+		{
+			Format = "Png"
+			Height = 2208
+			Path = ""
+			Width = 1242
+		}
+	]
+	Version = ""
+}
+PackageDestinationFolder = ""
+ProjectName = ""

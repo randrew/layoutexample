@@ -1,0 +1,23 @@
+
+banks = {
+	default = {
+		events = [
+			"sfx_spawn_sound"
+		]
+	}
+	Init = {
+		events = [
+		]
+	}
+}
+events = {
+	sfx_spawn_sound = {
+		attenuation_max = 0
+		duration_max = 2.767347
+		duration_min = 2.767347
+		duration_type = "OneShot"
+		positioning = "2D"
+	}
+}
+parameters = [
+]

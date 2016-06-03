@@ -1,0 +1,164 @@
+
+editor_metadata = {
+	Entities = [
+		{
+			id = "e656141d-a9c5-460b-b688-e442c49b985e"
+			layer = "Default"
+			name = "midday_shading_environment"
+			prefab = {
+				"$resource_name" = "core/stingray_renderer/environments/midday/midday_shading_environment"
+				"$resource_type" = "entity"
+			}
+		}
+	]
+	Flow = {
+		Connections = [
+		]
+		Groups = [
+		]
+		Nodes = [
+		]
+	}
+	Groups = [
+	]
+	Layers = [
+		"Default"
+	]
+	LevelObjectSets = {
+		NestedSetNamesBySetName = {
+		}
+		ObjectIdsBySetName = {
+		}
+		VisibleSetNames = [
+		]
+	}
+	LevelReferences = [
+	]
+	LightBakeSettings = {
+		CustomFilterGain = 100
+		CustomQuality = 0.300000011920929
+		ExcludedObjectSets = [
+		]
+		Layers = [
+		]
+		LightmapType = "Standard"
+		QualityPreset = "Low"
+		TexelScale = 10
+	}
+	LuaPluginObjects = [
+	]
+	Navmeshes = [
+	]
+	Notes = [
+	]
+	ParticleEffects = [
+	]
+	PositionMarkers = [
+	]
+	Prototypes = [
+	]
+	Scatter = {
+		PoolSettings = {
+		}
+		ScatterData = {
+		}
+	}
+	Settings = {
+		FrozenLayers = [
+		]
+		HiddenLayers = [
+		]
+		HiddenObjects = [
+		]
+		LastHiddenObjects = [
+		]
+		SkydomeUnit = "core/editor_slave/units/skydome/skydome"
+		SoundEnvironment = ""
+		TimpaniSoundEnvironment = "default"
+	}
+	Sounds = [
+	]
+	Splines = [
+	]
+	Stories = [
+	]
+	Triggers = [
+	]
+	Units = [
+	]
+	Volumes = [
+	]
+}
+entities = [
+	{
+		id = "e656141d-a9c5-460b-b688-e442c49b985e"
+		name = "midday_shading_environment"
+		prefab = {
+			"$resource_name" = "core/stingray_renderer/environments/midday/midday_shading_environment"
+			"$resource_type" = "entity"
+		}
+	}
+]
+flow = {
+	nodes = [
+	]
+}
+level_references = [
+]
+level_settings = {
+	num_background_units = 1
+	sound_environment = ""
+	timpani_sound_environment = "default"
+}
+navmeshes = [
+]
+object_sets = {
+}
+particle_effects = [
+]
+prototypes = [
+]
+scatter = [
+]
+sounds = [
+]
+splines = [
+]
+stories = [
+]
+triggers = [
+]
+units = [
+	{
+		cameras = {
+		}
+		data = {
+		}
+		id = "skydome-unit"
+		lights = {
+		}
+		material = "core/editor_slave/units/skydome/skydome"
+		materials = {
+		}
+		name = ""
+		pos = [
+			0
+			0
+			0
+		]
+		rot = [
+			0
+			0
+			0
+			1
+		]
+		scl = [
+			1
+			1
+			1
+		]
+		type = "core/editor_slave/units/skydome/skydome"
+	}
+]
+volumes = [
+]

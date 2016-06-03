@@ -1,0 +1,10 @@
+nodes = [
+	{
+		name = "Example Print"
+		args = {
+			Text = "string"
+		}
+		function = "ProjectFlowCallbacks.example"
+		category = "Project"
+	}
+]
