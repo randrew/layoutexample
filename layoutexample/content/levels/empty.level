@@ -3,12 +3,12 @@ editor_metadata = {
 	Entities = [
 		{
 			id = "e656141d-a9c5-460b-b688-e442c49b985e"
-			layer = "Default"
-			name = "midday_shading_environment"
-			prefab = {
+			inherit = {
 				"$resource_name" = "core/stingray_renderer/environments/midday/midday_shading_environment"
 				"$resource_type" = "entity"
 			}
+			layer = "Default"
+			name = "midday_shading_environment"
 		}
 	]
 	Flow = {
@@ -92,13 +92,14 @@ editor_metadata = {
 entities = [
 	{
 		id = "e656141d-a9c5-460b-b688-e442c49b985e"
-		name = "midday_shading_environment"
-		prefab = {
+		inherit = {
 			"$resource_name" = "core/stingray_renderer/environments/midday/midday_shading_environment"
 			"$resource_type" = "entity"
 		}
+		name = "midday_shading_environment"
 	}
 ]
+entity_version = "0.2.0"
 flow = {
 	nodes = [
 	]
